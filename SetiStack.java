@@ -6,6 +6,7 @@
  * @since   2020-10-4
  */
 
+
 import java.util.ArrayList;
 
 public class SetiStack {
@@ -39,4 +40,3 @@ public class SetiStack {
         System.out.println(stackAsList);
     }
 }
-
